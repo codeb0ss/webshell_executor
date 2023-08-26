@@ -1,0 +1,48 @@
+ -#- 
+  
+   t.me/codeb0ss
+
+    A small amount of the simplest backdoors 
+
+     app_400 webshell backdoor
+     wp_www webshell backdoor
+     wp_abt.php webshell backdoor
+     cache webshell backdoor
+     moon webshell backdoor
+     wp_db webshell backdoor
+     alfa_db webshell backdoor
+     wp_siteindex webshell backdoor 
+     wp_wso webshell backdoor
+     ek-wso webshell backdoor
+     wellkn_wso webshell backdoor
+     help-wso webshell backdoor
+     wp_minishell webshell backdoor
+     oldindex webshell backdoor
+     wlw webshell backdoor
+     css_wso webshell backdoor
+
+   Enjoy;
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
